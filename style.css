@@ -8,6 +8,7 @@
     font-weight: bold;
     font-family:sans-serif;
     font-size: 70px;
+    color: gray;
 }
 .title{
     font-weight: bold;
@@ -15,6 +16,7 @@
 }
 p{
     font-family: sans-serif;
+    color: gray;
 }
 h1{
     font-family: sans-serif;
@@ -28,6 +30,9 @@ h1{
     height: 500px;
     margin-left: 50px;
 }
+.listing{
+    color: gray;
+}
 
 
 .container2{
@@ -37,7 +42,7 @@ h1{
 }
 .text2{
     
-    margin: auto;
+    margin-top: 30%;
 }
 .secondimg{
     height: 80%;
@@ -47,14 +52,12 @@ h1{
 .container3{
     display: flex;
     margin: auto;
-    width: 90%;
 }
 .inner3{
-    border: 1px solid gray;
-    width: 70%;
+    border: 0.5px solid rgba(128, 128, 128, 0.448);
     border-radius: 3px;
     margin: 20px;
-    padding: 10px;
+    padding: 20px;
 }
 .icon{
     width: 50px;
