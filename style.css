@@ -1,0 +1,61 @@
+
+.wholePage{
+    width: 90%;
+    margin: auto;
+}
+
+.top{
+    font-weight: bold;
+    font-family:sans-serif;
+    font-size: 70px;
+}
+.title{
+    font-weight: bold;
+    font-family: sans-serif;
+}
+p{
+    font-family: sans-serif;
+}
+h1{
+    font-family: sans-serif;
+}
+
+
+.container1{
+    display: flex;
+}
+.firstimg{
+    height: 500px;
+    margin-left: 50px;
+}
+
+
+.container2{
+    display: flex;
+    margin: auto;
+    width: 80%;
+}
+.text2{
+    
+    margin: auto;
+}
+.secondimg{
+    height: 80%;
+}
+
+
+.container3{
+    display: flex;
+    margin: auto;
+    width: 90%;
+}
+.inner3{
+    border: 1px solid gray;
+    width: 70%;
+    border-radius: 3px;
+    margin: 20px;
+    padding: 10px;
+}
+.icon{
+    width: 50px;
+}
